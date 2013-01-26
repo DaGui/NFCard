@@ -18,7 +18,7 @@ package com.sinpo.xnfc.card;
 import android.content.res.Resources;
 import android.nfc.tech.NfcF;
 
-import com.sinpo.xnfc.R;
+import net.logicmd.xnfc.R;
 import com.sinpo.xnfc.Util;
 import com.sinpo.xnfc.tech.FeliCa;
 

@@ -19,7 +19,7 @@ import java.util.ArrayList;
 
 import android.content.res.Resources;
 
-import com.sinpo.xnfc.R;
+import net.logicmd.xnfc.R;
 import com.sinpo.xnfc.tech.Iso7816;
 
 final class ChanganTong extends PbocCard {

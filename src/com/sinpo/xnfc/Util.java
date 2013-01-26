@@ -15,6 +15,8 @@ Additional permission under GNU GPL version 3 section 7 */
 
 package com.sinpo.xnfc;
 
+import net.logicmd.xnfc.R;
+
 public final class Util {
 	private final static char[] HEX = { '0', '1', '2', '3', '4', '5', '6', '7',
 			'8', '9', 'A', 'B', 'C', 'D', 'E', 'F' };

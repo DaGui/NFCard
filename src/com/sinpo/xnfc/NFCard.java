@@ -17,6 +17,7 @@ package com.sinpo.xnfc;
 
 import java.util.Arrays;
 
+import net.logicmd.xnfc.R;
 import org.xml.sax.XMLReader;
 
 import android.app.Activity;

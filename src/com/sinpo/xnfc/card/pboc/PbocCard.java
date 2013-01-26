@@ -21,7 +21,7 @@ import java.util.Arrays;
 import android.content.res.Resources;
 import android.nfc.tech.IsoDep;
 
-import com.sinpo.xnfc.R;
+import net.logicmd.xnfc.R;
 import com.sinpo.xnfc.Util;
 import com.sinpo.xnfc.card.CardManager;
 import com.sinpo.xnfc.tech.Iso7816;
