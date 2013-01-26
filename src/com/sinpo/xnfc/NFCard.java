@@ -46,6 +46,7 @@ import android.widget.Toast;
 
 import com.sinpo.xnfc.card.CardManager;
 
+@SuppressWarnings("deprecation")
 public final class NFCard extends Activity implements OnClickListener,
 		Html.ImageGetter, Html.TagHandler {
 	private NfcAdapter nfcAdapter;
